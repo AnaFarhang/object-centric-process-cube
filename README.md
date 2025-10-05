@@ -22,11 +22,11 @@ Tkreadonly==0.6.1
 
 ```
 
-## Usage
+## General Usage
 To run the program, you need only to run the [main module](https://github.com/AnahitaFarhang/object-centric-process-cube/blob/main/main.py).
 
 
-### Running in Visual Studio remote Docker container on Mac
+### Additions: Running in Visual Studio remote Docker container on Mac
 Install XQuartz and socat and execute the following commands to make the display available on the network:
 ```
 open -a XQuartz
